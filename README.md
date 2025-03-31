@@ -25,10 +25,6 @@ This project is built as a Safari Web Extension using Xcode. To set up the devel
 3. Build and run the project
 4. Enable the extension in Safari
 
-## License
-
-[MIT License](LICENSE)
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. I just don't want YouTube shorts ever again in my dashboard.

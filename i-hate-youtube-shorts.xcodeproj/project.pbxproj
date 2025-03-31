@@ -1,0 +1,745 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3298AE342D99D9DD004F37BB /* i-hate-youtube-shorts Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 3298AE332D99D9DD004F37BB /* i-hate-youtube-shorts Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3298AE1E2D99D9DD004F37BB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3298ADF92D99D9DC004F37BB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3298AE002D99D9DC004F37BB;
+			remoteInfo = "i-hate-youtube-shorts";
+		};
+		3298AE282D99D9DD004F37BB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3298ADF92D99D9DC004F37BB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3298AE002D99D9DC004F37BB;
+			remoteInfo = "i-hate-youtube-shorts";
+		};
+		3298AE352D99D9DD004F37BB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3298ADF92D99D9DC004F37BB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3298AE322D99D9DD004F37BB;
+			remoteInfo = "i-hate-youtube-shorts Extension";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		3298AE532D99D9DD004F37BB /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				3298AE342D99D9DD004F37BB /* i-hate-youtube-shorts Extension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		3298AE012D99D9DC004F37BB /* i-hate-youtube-shorts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "i-hate-youtube-shorts.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3298AE1D2D99D9DD004F37BB /* i-hate-youtube-shortsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "i-hate-youtube-shortsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3298AE272D99D9DD004F37BB /* i-hate-youtube-shortsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "i-hate-youtube-shortsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3298AE332D99D9DD004F37BB /* i-hate-youtube-shorts Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "i-hate-youtube-shorts Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		3298AE4D2D99D9DD004F37BB /* Exceptions for "i-hate-youtube-shorts Extension" folder in "i-hate-youtube-shorts Extension" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 3298AE322D99D9DD004F37BB /* i-hate-youtube-shorts Extension */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		3298AE032D99D9DC004F37BB /* i-hate-youtube-shorts */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "i-hate-youtube-shorts";
+			sourceTree = "<group>";
+		};
+		3298AE202D99D9DD004F37BB /* i-hate-youtube-shortsTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "i-hate-youtube-shortsTests";
+			sourceTree = "<group>";
+		};
+		3298AE2A2D99D9DD004F37BB /* i-hate-youtube-shortsUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "i-hate-youtube-shortsUITests";
+			sourceTree = "<group>";
+		};
+		3298AE372D99D9DD004F37BB /* i-hate-youtube-shorts Extension */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				3298AE4D2D99D9DD004F37BB /* Exceptions for "i-hate-youtube-shorts Extension" folder in "i-hate-youtube-shorts Extension" target */,
+			);
+			explicitFolders = (
+				Resources/_locales,
+				Resources/images,
+			);
+			path = "i-hate-youtube-shorts Extension";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3298ADFE2D99D9DC004F37BB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3298AE1A2D99D9DD004F37BB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3298AE242D99D9DD004F37BB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3298AE302D99D9DD004F37BB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3298ADF82D99D9DC004F37BB = {
+			isa = PBXGroup;
+			children = (
+				3298AE032D99D9DC004F37BB /* i-hate-youtube-shorts */,
+				3298AE202D99D9DD004F37BB /* i-hate-youtube-shortsTests */,
+				3298AE2A2D99D9DD004F37BB /* i-hate-youtube-shortsUITests */,
+				3298AE372D99D9DD004F37BB /* i-hate-youtube-shorts Extension */,
+				3298AE022D99D9DC004F37BB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3298AE022D99D9DC004F37BB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3298AE012D99D9DC004F37BB /* i-hate-youtube-shorts.app */,
+				3298AE1D2D99D9DD004F37BB /* i-hate-youtube-shortsTests.xctest */,
+				3298AE272D99D9DD004F37BB /* i-hate-youtube-shortsUITests.xctest */,
+				3298AE332D99D9DD004F37BB /* i-hate-youtube-shorts Extension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3298AE002D99D9DC004F37BB /* i-hate-youtube-shorts */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3298AE542D99D9DD004F37BB /* Build configuration list for PBXNativeTarget "i-hate-youtube-shorts" */;
+			buildPhases = (
+				3298ADFD2D99D9DC004F37BB /* Sources */,
+				3298ADFE2D99D9DC004F37BB /* Frameworks */,
+				3298ADFF2D99D9DC004F37BB /* Resources */,
+				3298AE532D99D9DD004F37BB /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3298AE362D99D9DD004F37BB /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3298AE032D99D9DC004F37BB /* i-hate-youtube-shorts */,
+			);
+			name = "i-hate-youtube-shorts";
+			packageProductDependencies = (
+			);
+			productName = "i-hate-youtube-shorts";
+			productReference = 3298AE012D99D9DC004F37BB /* i-hate-youtube-shorts.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3298AE1C2D99D9DD004F37BB /* i-hate-youtube-shortsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3298AE572D99D9DD004F37BB /* Build configuration list for PBXNativeTarget "i-hate-youtube-shortsTests" */;
+			buildPhases = (
+				3298AE192D99D9DD004F37BB /* Sources */,
+				3298AE1A2D99D9DD004F37BB /* Frameworks */,
+				3298AE1B2D99D9DD004F37BB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3298AE1F2D99D9DD004F37BB /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3298AE202D99D9DD004F37BB /* i-hate-youtube-shortsTests */,
+			);
+			name = "i-hate-youtube-shortsTests";
+			packageProductDependencies = (
+			);
+			productName = "i-hate-youtube-shortsTests";
+			productReference = 3298AE1D2D99D9DD004F37BB /* i-hate-youtube-shortsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3298AE262D99D9DD004F37BB /* i-hate-youtube-shortsUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3298AE5A2D99D9DD004F37BB /* Build configuration list for PBXNativeTarget "i-hate-youtube-shortsUITests" */;
+			buildPhases = (
+				3298AE232D99D9DD004F37BB /* Sources */,
+				3298AE242D99D9DD004F37BB /* Frameworks */,
+				3298AE252D99D9DD004F37BB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3298AE292D99D9DD004F37BB /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3298AE2A2D99D9DD004F37BB /* i-hate-youtube-shortsUITests */,
+			);
+			name = "i-hate-youtube-shortsUITests";
+			packageProductDependencies = (
+			);
+			productName = "i-hate-youtube-shortsUITests";
+			productReference = 3298AE272D99D9DD004F37BB /* i-hate-youtube-shortsUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		3298AE322D99D9DD004F37BB /* i-hate-youtube-shorts Extension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3298AE4E2D99D9DD004F37BB /* Build configuration list for PBXNativeTarget "i-hate-youtube-shorts Extension" */;
+			buildPhases = (
+				3298AE2F2D99D9DD004F37BB /* Sources */,
+				3298AE302D99D9DD004F37BB /* Frameworks */,
+				3298AE312D99D9DD004F37BB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				3298AE372D99D9DD004F37BB /* i-hate-youtube-shorts Extension */,
+			);
+			name = "i-hate-youtube-shorts Extension";
+			packageProductDependencies = (
+			);
+			productName = "i-hate-youtube-shorts Extension";
+			productReference = 3298AE332D99D9DD004F37BB /* i-hate-youtube-shorts Extension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3298ADF92D99D9DC004F37BB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					3298AE002D99D9DC004F37BB = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					3298AE1C2D99D9DD004F37BB = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 3298AE002D99D9DC004F37BB;
+					};
+					3298AE262D99D9DD004F37BB = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 3298AE002D99D9DC004F37BB;
+					};
+					3298AE322D99D9DD004F37BB = {
+						CreatedOnToolsVersion = 16.2;
+					};
+				};
+			};
+			buildConfigurationList = 3298ADFC2D99D9DC004F37BB /* Build configuration list for PBXProject "i-hate-youtube-shorts" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3298ADF82D99D9DC004F37BB;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 3298AE022D99D9DC004F37BB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3298AE002D99D9DC004F37BB /* i-hate-youtube-shorts */,
+				3298AE1C2D99D9DD004F37BB /* i-hate-youtube-shortsTests */,
+				3298AE262D99D9DD004F37BB /* i-hate-youtube-shortsUITests */,
+				3298AE322D99D9DD004F37BB /* i-hate-youtube-shorts Extension */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3298ADFF2D99D9DC004F37BB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3298AE1B2D99D9DD004F37BB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3298AE252D99D9DD004F37BB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3298AE312D99D9DD004F37BB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3298ADFD2D99D9DC004F37BB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3298AE192D99D9DD004F37BB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3298AE232D99D9DD004F37BB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3298AE2F2D99D9DD004F37BB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3298AE1F2D99D9DD004F37BB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3298AE002D99D9DC004F37BB /* i-hate-youtube-shorts */;
+			targetProxy = 3298AE1E2D99D9DD004F37BB /* PBXContainerItemProxy */;
+		};
+		3298AE292D99D9DD004F37BB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3298AE002D99D9DC004F37BB /* i-hate-youtube-shorts */;
+			targetProxy = 3298AE282D99D9DD004F37BB /* PBXContainerItemProxy */;
+		};
+		3298AE362D99D9DD004F37BB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3298AE322D99D9DD004F37BB /* i-hate-youtube-shorts Extension */;
+			targetProxy = 3298AE352D99D9DD004F37BB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		3298AE4F2D99D9DD004F37BB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "i-hate-youtube-shorts Extension/i_hate_youtube_shorts_Extension.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DB95V528N6;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "i-hate-youtube-shorts Extension/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "i-hate-youtube-shorts Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.marcocaldera.i-hate-youtube-shorts.Extension";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		3298AE502D99D9DD004F37BB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "i-hate-youtube-shorts Extension/i_hate_youtube_shorts_Extension.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DB95V528N6;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "i-hate-youtube-shorts Extension/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "i-hate-youtube-shorts Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.marcocaldera.i-hate-youtube-shorts.Extension";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		3298AE512D99D9DD004F37BB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3298AE522D99D9DD004F37BB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		3298AE552D99D9DD004F37BB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "i-hate-youtube-shorts/i-hate-youtube-shorts.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DB95V528N6;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "i-hate-youtube-shorts";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.marcocaldera.i-hate-youtube-shorts";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		3298AE562D99D9DD004F37BB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "i-hate-youtube-shorts/i-hate-youtube-shorts.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DB95V528N6;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "i-hate-youtube-shorts";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.marcocaldera.i-hate-youtube-shorts";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		3298AE582D99D9DD004F37BB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DB95V528N6;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.marcocaldera.i-hate-youtube-shortsTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/i-hate-youtube-shorts.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/i-hate-youtube-shorts";
+			};
+			name = Debug;
+		};
+		3298AE592D99D9DD004F37BB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DB95V528N6;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.marcocaldera.i-hate-youtube-shortsTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/i-hate-youtube-shorts.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/i-hate-youtube-shorts";
+			};
+			name = Release;
+		};
+		3298AE5B2D99D9DD004F37BB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DB95V528N6;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.marcocaldera.i-hate-youtube-shortsUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "i-hate-youtube-shorts";
+			};
+			name = Debug;
+		};
+		3298AE5C2D99D9DD004F37BB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DB95V528N6;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.marcocaldera.i-hate-youtube-shortsUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "i-hate-youtube-shorts";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3298ADFC2D99D9DC004F37BB /* Build configuration list for PBXProject "i-hate-youtube-shorts" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3298AE512D99D9DD004F37BB /* Debug */,
+				3298AE522D99D9DD004F37BB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3298AE4E2D99D9DD004F37BB /* Build configuration list for PBXNativeTarget "i-hate-youtube-shorts Extension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3298AE4F2D99D9DD004F37BB /* Debug */,
+				3298AE502D99D9DD004F37BB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3298AE542D99D9DD004F37BB /* Build configuration list for PBXNativeTarget "i-hate-youtube-shorts" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3298AE552D99D9DD004F37BB /* Debug */,
+				3298AE562D99D9DD004F37BB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3298AE572D99D9DD004F37BB /* Build configuration list for PBXNativeTarget "i-hate-youtube-shortsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3298AE582D99D9DD004F37BB /* Debug */,
+				3298AE592D99D9DD004F37BB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3298AE5A2D99D9DD004F37BB /* Build configuration list for PBXNativeTarget "i-hate-youtube-shortsUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3298AE5B2D99D9DD004F37BB /* Debug */,
+				3298AE5C2D99D9DD004F37BB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3298ADF92D99D9DC004F37BB /* Project object */;
+}
